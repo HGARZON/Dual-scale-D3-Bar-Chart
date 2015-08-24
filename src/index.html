@@ -38,9 +38,11 @@ var margin = {top: 80, right: 80, bottom: 80, left: 80},
     width = 600 - margin.left - margin.right,
     height = 400 - margin.top - margin.bottom;
 
+// scale of the x axis
 var x = d3.scale.ordinal()
-   .rangeRoundBands([0, width], .1);
+   .rangeRoundBands([0, width], .2);
 
+// scale of the y0 and y1 axis
 var y0 = d3.scale.linear().range([height, 0]),
     y1 = d3.scale.linear().range([height, 0]);
 
@@ -53,7 +55,7 @@ var xAxis = d3.svg.axis()
 // create right yAxis
 var yAxisRight = d3.svg.axis()
                       .scale(y1)
-                      .ticks(6)
+                      .ticks(10)
                       .orient("right");
 
 // Parse the date / time

@@ -8,7 +8,7 @@
   {"total": 14,"date": "2015-07-23T04:00:00Z","visits_detail": []},
   {"total": 15,"date": "2015-07-24T04:00:00Z","visits_detail": []},
   {"total": 16,"date": "2015-07-25T04:00:00Z","visits_detail": []},
-  {"total": 17,"date": "2015-07-26T04:00:00Z","visits_detail": []},
+  {"total": 30,"date": "2015-07-26T04:00:00Z","visits_detail": []},
   {"total": 18,"date": "2015-07-27T04:00:00Z","visits_detail": []},
   {"total": 19,"date": "2015-07-28T04:00:00Z","visits_detail": []},
   {"total": 8,"date": "2015-07-29T04:00:00Z","visits_detail": []},
@@ -21,5 +21,5 @@
   {"total": 5,"date": "2015-08-05T04:00:00Z","visits_detail": [{"company": "mercadolibre","quantity": 5}]},
   {"total": 2,"date": "2015-08-06T04:00:00Z","visits_detail": [{"company": "mercadolibre","quantity": 2}]},
   {"total": 4,"date": "2015-08-07T04:00:00Z","visits_detail": [{"company": "mercadolibre","quantity": 4}]},
-  {"total": 2,"date": "2015-08-08T04:00:00Z","visits_detail": [{"company": "mercadolibre","quantity": 2}]}
+  {"total": 12,"date": "2015-08-08T04:00:00Z","visits_detail": [{"company": "mercadolibre","quantity": 2}]}
 ]
